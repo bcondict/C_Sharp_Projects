@@ -1,0 +1,11 @@
+/home/jesus/Learning_Projects/C_Sharp_Projects/basics/7-is_prime/obj/Debug/netcoreapp2.1/7-is_prime.csprojAssemblyReference.cache
+/home/jesus/Learning_Projects/C_Sharp_Projects/basics/7-is_prime/obj/Debug/netcoreapp2.1/7-is_prime.csproj.CoreCompileInputs.cache
+/home/jesus/Learning_Projects/C_Sharp_Projects/basics/7-is_prime/obj/Debug/netcoreapp2.1/7-is_prime.AssemblyInfoInputs.cache
+/home/jesus/Learning_Projects/C_Sharp_Projects/basics/7-is_prime/obj/Debug/netcoreapp2.1/7-is_prime.AssemblyInfo.cs
+/home/jesus/Learning_Projects/C_Sharp_Projects/basics/7-is_prime/bin/Debug/netcoreapp2.1/7-is_prime.deps.json
+/home/jesus/Learning_Projects/C_Sharp_Projects/basics/7-is_prime/bin/Debug/netcoreapp2.1/7-is_prime.runtimeconfig.json
+/home/jesus/Learning_Projects/C_Sharp_Projects/basics/7-is_prime/bin/Debug/netcoreapp2.1/7-is_prime.runtimeconfig.dev.json
+/home/jesus/Learning_Projects/C_Sharp_Projects/basics/7-is_prime/bin/Debug/netcoreapp2.1/7-is_prime.dll
+/home/jesus/Learning_Projects/C_Sharp_Projects/basics/7-is_prime/bin/Debug/netcoreapp2.1/7-is_prime.pdb
+/home/jesus/Learning_Projects/C_Sharp_Projects/basics/7-is_prime/obj/Debug/netcoreapp2.1/7-is_prime.dll
+/home/jesus/Learning_Projects/C_Sharp_Projects/basics/7-is_prime/obj/Debug/netcoreapp2.1/7-is_prime.pdb

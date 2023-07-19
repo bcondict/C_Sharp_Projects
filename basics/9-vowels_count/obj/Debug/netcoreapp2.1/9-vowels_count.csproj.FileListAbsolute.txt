@@ -1,0 +1,11 @@
+/home/jesus/Learning_Projects/C_Sharp_Projects/basics/9-vowels_count/obj/Debug/netcoreapp2.1/9-vowels_count.csprojAssemblyReference.cache
+/home/jesus/Learning_Projects/C_Sharp_Projects/basics/9-vowels_count/obj/Debug/netcoreapp2.1/9-vowels_count.csproj.CoreCompileInputs.cache
+/home/jesus/Learning_Projects/C_Sharp_Projects/basics/9-vowels_count/obj/Debug/netcoreapp2.1/9-vowels_count.AssemblyInfoInputs.cache
+/home/jesus/Learning_Projects/C_Sharp_Projects/basics/9-vowels_count/obj/Debug/netcoreapp2.1/9-vowels_count.AssemblyInfo.cs
+/home/jesus/Learning_Projects/C_Sharp_Projects/basics/9-vowels_count/bin/Debug/netcoreapp2.1/9-vowels_count.deps.json
+/home/jesus/Learning_Projects/C_Sharp_Projects/basics/9-vowels_count/bin/Debug/netcoreapp2.1/9-vowels_count.runtimeconfig.json
+/home/jesus/Learning_Projects/C_Sharp_Projects/basics/9-vowels_count/bin/Debug/netcoreapp2.1/9-vowels_count.runtimeconfig.dev.json
+/home/jesus/Learning_Projects/C_Sharp_Projects/basics/9-vowels_count/bin/Debug/netcoreapp2.1/9-vowels_count.dll
+/home/jesus/Learning_Projects/C_Sharp_Projects/basics/9-vowels_count/bin/Debug/netcoreapp2.1/9-vowels_count.pdb
+/home/jesus/Learning_Projects/C_Sharp_Projects/basics/9-vowels_count/obj/Debug/netcoreapp2.1/9-vowels_count.dll
+/home/jesus/Learning_Projects/C_Sharp_Projects/basics/9-vowels_count/obj/Debug/netcoreapp2.1/9-vowels_count.pdb

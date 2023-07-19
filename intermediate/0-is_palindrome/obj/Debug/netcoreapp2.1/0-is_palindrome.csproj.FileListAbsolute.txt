@@ -1,0 +1,11 @@
+/home/jesus/Learning_Projects/C_Sharp_Projects/intermediate/0-is_palindrome/obj/Debug/netcoreapp2.1/0-is_palindrome.csprojAssemblyReference.cache
+/home/jesus/Learning_Projects/C_Sharp_Projects/intermediate/0-is_palindrome/obj/Debug/netcoreapp2.1/0-is_palindrome.csproj.CoreCompileInputs.cache
+/home/jesus/Learning_Projects/C_Sharp_Projects/intermediate/0-is_palindrome/obj/Debug/netcoreapp2.1/0-is_palindrome.AssemblyInfoInputs.cache
+/home/jesus/Learning_Projects/C_Sharp_Projects/intermediate/0-is_palindrome/obj/Debug/netcoreapp2.1/0-is_palindrome.AssemblyInfo.cs
+/home/jesus/Learning_Projects/C_Sharp_Projects/intermediate/0-is_palindrome/bin/Debug/netcoreapp2.1/0-is_palindrome.deps.json
+/home/jesus/Learning_Projects/C_Sharp_Projects/intermediate/0-is_palindrome/bin/Debug/netcoreapp2.1/0-is_palindrome.runtimeconfig.json
+/home/jesus/Learning_Projects/C_Sharp_Projects/intermediate/0-is_palindrome/bin/Debug/netcoreapp2.1/0-is_palindrome.runtimeconfig.dev.json
+/home/jesus/Learning_Projects/C_Sharp_Projects/intermediate/0-is_palindrome/bin/Debug/netcoreapp2.1/0-is_palindrome.dll
+/home/jesus/Learning_Projects/C_Sharp_Projects/intermediate/0-is_palindrome/bin/Debug/netcoreapp2.1/0-is_palindrome.pdb
+/home/jesus/Learning_Projects/C_Sharp_Projects/intermediate/0-is_palindrome/obj/Debug/netcoreapp2.1/0-is_palindrome.dll
+/home/jesus/Learning_Projects/C_Sharp_Projects/intermediate/0-is_palindrome/obj/Debug/netcoreapp2.1/0-is_palindrome.pdb
